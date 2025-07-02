@@ -1,6 +1,9 @@
 # 社团
+
 ## 社团目录
-来源：[交大社总社团名录与媒体账号指引](https://sjtu-auion.feishu.cn/sheets/IVxTspKNmhGBgstUZrdcyKuennf))
+来源：[交大社总社团名录与媒体账号指引](https://sjtu-auion.feishu.cn/sheets/IVxTspKNmhGBgstUZrdcyKuennf)
+
+更新日期：2025/7/2
  
 | 社团名                           | 社团公众号                | QQ群号（可能过时）           |
 | ----------------------------- | -------------------- | -------------------- |
@@ -15,7 +18,7 @@
 | Fsquare舞蹈协会                   | Fsquare舞社            | 1130329805           |
 | J-Teen说唱社                     | J-Teen说唱社            | 暂无                   |
 | Linux用户组                      | SJTUG                | 715273806            |
-| Minecraft社                    | 上海交通大学Minecraft社     | 暂无                   |
+| Minecraft社                    | 上海交通大学Minecraft社     | 关注公众号可见                   |
 | RM交龙机器人战队                     | 上海交大交龙机器人俱乐部         | 709881123/710299378  |
 | SJTUPA摄影协会                    | SJTUPA摄影协会           | 暂无                   |
 | SJTU创新创业协会                    | SJTU双创               | 暂无                   |
