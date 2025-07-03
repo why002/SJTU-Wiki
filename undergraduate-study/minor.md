@@ -21,7 +21,7 @@
 
 在主修专业毕业（含结转毕）时，同时达到主修专业和辅修专业培养要求者，发放辅修专业证书。对我校具有辅修学士学位授予权的辅修专业，辅修学士学位在主修学士学位证书中予以注明。
 
-相关规定详见[上海交通大学本科生辅修专业修读管理办法](../files/regulations/上海交通大学本科生辅修专业修读管理办法.pdf)
+相关规定详见[上海交通大学本科生辅修专业修读管理办法](https://jwc.sjtu.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1707467176&wbfileid=6E0CE77ACFCC432026BDEDEFD1470641)
 
 ## 校外辅修
 
