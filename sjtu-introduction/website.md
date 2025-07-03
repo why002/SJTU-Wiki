@@ -19,7 +19,7 @@
 ### 院系天地
 | 分类 | 院系 |
 | :--: | :--- |
-| **工科** | - [船舶海洋与建筑工程学院](http://naoce.sjtu.edu.cn) <br> - [机械与动力工程学院](http://me.sjtu.edu.cn) <br> - [电子信息与电气工程学院（学部）](http://www.seiee.sjtu.edu.cn) <br> - [集成电路学院（信息与电子工程学院）](https://icisee.sjtu.edu.cn) <br> - [材料科学与工程学院](http://smse.sjtu.edu.cn) <br> - [环境科学与工程学院](http://sese.sjtu.edu.cn) <br> - [生物医学工程学院](http://bme.sjtu.edu.cn) <br> - [航空航天学院](http://www.aero.sjtu.edu.cn) |
+| **工科** | - [船舶海洋与建筑工程学院](http://naoce.sjtu.edu.cn) <br> - [机械与动力工程学院](http://me.sjtu.edu.cn) <br> - [电子信息与电气工程学院（学部）](http://www.seiee.sjtu.edu.cn) <br> - [电气工程学院](https://eei.sjtu.edu.cn/) <br> - [自动化与感知学院]() <br> - [计算机学院（网络空间安全学院、密码学院）]() <br> - [集成电路学院（信息与电子工程学院）](https://icisee.sjtu.edu.cn) <br> - [材料科学与工程学院](http://smse.sjtu.edu.cn) <br> - [环境科学与工程学院](http://sese.sjtu.edu.cn) <br> - [生物医学工程学院](http://bme.sjtu.edu.cn) <br> - [航空航天学院](http://www.aero.sjtu.edu.cn) |
 | **理科** | - [数学科学学院](http://www.math.sjtu.edu.cn) <br> - [物理与天文学院](http://www.physics.sjtu.edu.cn) <br> - [化学化工学院](http://scce.sjtu.edu.cn) <br> - [海洋学院](http://soo.sjtu.edu.cn/) |
 | **生命科学** | - [生命科学技术学院](http://life.sjtu.edu.cn) <br> - [农业与生物学院](http://www.agri.sjtu.edu.cn) <br> - [医学院](http://www.shsmu.edu.cn) <br> - [药学院](http://pharm.sjtu.edu.cn) |
 | **人文社科** | - [安泰经济与管理学院](http.acem.sjtu.edu.cn) <br> - [凯原法学院](http://law.sjtu.edu.cn) <br> - [外国语学院](http://sfl.sjtu.edu.cn) <br> - [人文学院](http://shss.sjtu.edu.cn) <br> - [马克思主义学院](https://ma.sjtu.edu.cn/) <br> - [国际与公共事务学院](http://www.sipa.sjtu.edu.cn) <br> - [媒体与传播学院](http://smc.sjtu.edu.cn/) <br> - [设计学院](https://designschool.sjtu.edu.cn) <br> - [体育系](http://tiyuxi.sjtu.edu.cn) <br> - [上海高级金融学院](http://www.saif.sjtu.edu.cn) |
