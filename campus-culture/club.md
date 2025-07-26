@@ -1,4 +1,4 @@
-# 社团
+<img width="1002" height="1335" alt="image" src="https://github.com/user-attachments/assets/c6665cff-4352-4786-a431-a9eb2ef15145" /># 社团
 
 ## 社团目录
 来源：[交大社总社团名录与媒体账号指引](https://sjtu-auion.feishu.cn/sheets/IVxTspKNmhGBgstUZrdcyKuennf)
@@ -14,7 +14,7 @@
 | 3D造物社                         | 暂无                   | 暂无                   |
 | 525街舞协会                       | 525dancecrewSJTU     | 945078332            |
 | 800号电影社                     | 800号电影社            | 暂无                   |
-| Freedom Zone动漫协会              | 浮泽                   | 901559885            |
+| Freedom Zone动漫协会              | 浮泽                   | 1039892016            |
 | Fsquare舞蹈协会                   | Fsquare舞社            | 1130329805           |
 | J-Teen说唱社                     | J-Teen说唱社            | 暂无                   |
 | Linux用户组                      | SJTUG                | 715273806            |
